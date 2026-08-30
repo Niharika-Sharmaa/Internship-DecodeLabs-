@@ -1,40 +1,70 @@
-🤖 Rule-Based AI Chatbot
-Project 1 — Artificial Intelligence
+# DecodeLabs AI Internship Projects 🤖
 
-A simple rule-based chatbot developed in Python as part of the DecodeLabs Artificial Intelligence Industrial Training Program.
+A collection of **Artificial Intelligence projects** completed as part of the DecodeLabs Industrial Training Program 2026.
 
-🎯 Objective
+## 📌 Projects
 
-To create a chatbot that responds to predefined user inputs using basic rule-based decision-making and control flow.
+### 1. Rule-Based Chatbot 💬
 
-✨ Features
-Handles greetings such as hello, hi, and hey
-Responds to predefined questions
-Provides basic information about AI
-Handles unknown inputs with a fallback response
-Runs continuously using a while loop
-Supports bye and exit commands
-🛠️ Technologies Used
-Python
-VS Code
-🧠 Concepts Used
-If-else decision making
-While loop
-User input handling
-Dictionary-based responses
-Input sanitization
-Basic AI concepts
-▶️ How to Run
-python chatbot.py
+A simple chatbot that interacts with users using predefined rules and keyword-based responses.
 
-Type bye or exit to end the conversation.
+**Key Concepts:**
 
-📂 Project Structure
-AI_Chatbot_Project/
-├── chatbot.py
+* Rule-based logic
+* Keyword matching
+* User interaction
+* Conditional statements
+
+### 2. Data Classification Using AI 📊
+
+An AI-based project that processes a dataset and performs data classification using machine learning techniques.
+
+**Key Concepts:**
+
+* Data preprocessing
+* Dataset analysis
+* Feature handling
+* Machine Learning
+* Classification
+
+### 3. Smart Recommendation System 🎯
+
+A personalized recommendation system that takes user preferences and interests and recommends relevant items using similarity and pattern-matching logic.
+
+**Key Concepts:**
+
+* User preference input
+* Pattern matching
+* Similarity scoring
+* Personalized recommendations
+* Preference-based ranking
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Basic AI/ML concepts
+
+## 📂 Project Structure
+
+```text
+DecodeLabs-AI-Projects/
+│
+├── Rule-Based Chatbot/
+├── Task 2.py
+├── smart_recommendation_system.py
 └── README.md
-👩‍💻 Author
+```
 
-Niharika Sharma
+## 🎓 Internship
 
-Project 1 — Rule-Based AI Chatbot
+**DecodeLabs — Industrial Training Program 2026**
+Domain: **Artificial Intelligence**
+
+These projects demonstrate practical implementation of AI concepts including **logic building, data analysis, machine learning, pattern matching, and recommendation systems**.
+
+---
+
+⭐ Developed as part of the DecodeLabs AI Internship.
